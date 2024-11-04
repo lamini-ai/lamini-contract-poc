@@ -10,6 +10,7 @@ python = "^3.12"
 lamini = "^3.1.3"
 jupyter = "^1.1.1"
 faiss-cpu = "^1.9.0"
+pypdf = "^5.1.0"
 
 
 [build-system]
