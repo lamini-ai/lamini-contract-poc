@@ -53,11 +53,12 @@ class QuestionGenerator(GenerationNode):
 
 
     def make_prompt(self, obj):
-        prompt = (
+        prompt = "<|begin_of_text|><|start_header_id|>user<|end_header_id|>"
+        prompt += (
             self.system_prompt
         )
         prompt += obj.data["content"]
-        #print(prompt)
+        prompt += "<|eot_id|><|start_header_id|>assistant<|end_header_id|>"
 
         return prompt
 
@@ -72,7 +73,7 @@ class AnswerGenerator(GenerationNode):
         obj.prompt = self.make_prompt(obj)
 
     def make_prompt(self, obj: PromptObject):
-        prompt = "Consider the following:\n\n"
+        prompt = "<|begin_of_text|><|start_header_id|>user<|end_header_id|>Consider the following:\n\n"
         prompt += obj.data["content"]
         prompt += "\n Use the content above to answer the following question:\n"
         prompt += obj.prompt
@@ -80,6 +81,7 @@ class AnswerGenerator(GenerationNode):
             prompt += "?"
         prompt += "\n\n"
         prompt += "If the text does not contain the answer, then respond with 'I do not know'."
+        prompt += "<|eot_id|><|start_header_id|>assistant<|end_header_id|>"
         return prompt
 
 
