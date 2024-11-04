@@ -1,0 +1,118 @@
+Question,Gold Response,Model Response
+What countries does Uber operate in?,"Our technology is available in approximately 72 countries around the world, principally in the United States (“U.S.”) and Canada, Latin America, Europe, the Middle East, Africa, and Asia (excluding China and Southeast Asia).",Uber operates in approximately 72 countries around the world.
+What countries does Lyft operate in?,United states and select cities in Canada,Lyft operates in the United States and Canada.
+Do Uber and Lyft operate in Mexico?,Uber operates in Mexico including ride sharing and delivery services. Lyft only operates in the United States and select cities in Canada.,"Yes, Uber and Lyft operate in Mexico. However, the availability and scope of their services vary by location. Uber has been active in Mexico since 2014 and offers ridesharing services in many cities across the country. Lyft, on the other hand, entered the Mexican market in 2018 and its services are currently available in several cities, primarily in the north."
+"Think step by step. First, consider the largest spanish speaking north american country that lyft operates in. Second describe any recent regulation that impacts Lyft's business in that market.",Lyft only operates in canada and the united states.,Mexico
+"Think step by step. First, consider the largest spanish speaking north american market that uber operates in. Second describe any recent regulation that impacts Uber's business in that market.","Uber operates in mexico. Since April 2019, Mexico City’s Secretaría de Movilidad passed several amendments to existing ridesharing regulations implementing certain operational requirements, including a prohibition on the use of cash to pay for ridesharing services and, effective as of November 2019, a comprehensive TNC data sharing requirement and a requirement that Drivers in Mexico City obtain additional licenses and annual vehicle inspections to provide ridesharing services. Except for the vehicle inspection, we obtained an injunction against such operational requirements which, if implemented without modification, could have a negative impact on our business and our failure to comply with such regulations may result in a potential revocation of our license to operate in Mexico City.","The largest Spanish-speaking North American market that Uber operates in is Mexico. 
+
+A recent regulation that impacts Uber's business in Mexico is the requirement to have at least 70% of ridesharing drivers on the platform be Mexican citizens, as mandated by the Mexican government in 2021. This regulation was part of a larger set of rules aimed at increasing the use of ridesharing services by Mexican citizens and reducing the reliance on foreign drivers."
+"In Q4 2021, how many advertisers did Uber have?","During the fourth quarter of 2021, active advertising merchants grew to over 170,000.",I don't have access to real-time data or updates after 2021.
+What role does word of mouth play in Lyft go to market?,Lyft benefits from positive word of mouth in the existing Lyft rider community.,"Word of mouth plays a significant role in Lyft's go-to-market strategy. Here are some ways in which word of mouth contributes to Lyft's growth:
+
+1. **Raving Fans**: Lyft has a strong community of loyal users who frequently share their positive experiences with friends and family. These"
+What is the biggest macro trend that has impacted Lyft's business in 2021.,The covid 19 pandemic resulted in substantially reduced ridership on Lyft.,"The COVID-19 pandemic was the biggest macro trend that impacted Lyft's business in 2021. The pandemic led to a significant shift in consumer behavior, with many people turning to ride-hailing services as a safe alternative to public transportation. This led to a massive increase in demand for Lyft's services, resulting in strong revenue growth for the company in 2021."
+How has Uber and Lyft's reputation impacted their respective businesses?,Uber has previously received significant media coverage and negative publicity regarding it's brand and reputation. Lyft in contrast benefits from positive word of mouth in the existing Lyft rider community.,"Uber and Lyft have both faced their share of challenges related to their reputation, which has impacted their businesses in various ways. Here are some key aspects of their reputation and how it has affected them:
+
+**Ride-Sharing Market Share**
+
+*   Lyft's market share in the United States as of Q1 2022 was 39% while Uber's was 57% (Source: Lyft's Q1 2022 Earnings Report)
+*   Lyft's market share in the ridesharing market in the United States grew from 10% in 2016 to 39% in 2021 (Source: Lyft's 2021 Annual Report)
+*   Uber's market share in the ridesharing market in the United States was around 57% as of Q1 2022 (Source: Uber's Q1 2022 Earnings Report)
+
+**Complaints and Incidents**
+
+*   Lyft has faced several high-profile incidents, including a 2021 lawsuit over the safety of its autonomous vehicles and a 2020 data breach that exposed the personal data of millions of users.
+*   Uber has also faced numerous lawsuits, including one over the safety of its self-driving cars and another over the use of its Express Drive program, which allows third-party drivers to offer ridesharing services.
+
+**Regulatory Challenges**
+
+*   Lyft and Uber have faced regulatory challenges in various jurisdictions, including changes to or bans on ridesharing services in cities and states.
+*   In 2020, the New York City Council passed a law that effectively banned ridesharing services in the city, although the law was later overturned by a federal court.
+*   In 2021, the California Legislature passed a law that requires ridesharing companies to treat their drivers as employees rather than independent contractors, which could significantly increase the cost of doing business for both companies.
+
+**Brand Perception**
+
+*   A 2022 survey by the market research firm YouGov found that 53% of Americans have a very or somewhat positive view of Lyft, while 42% have a very or somewhat positive view of Uber (Source: YouGov)
+*   A 2022 survey by the market research firm Morning Consult found that 44% of Americans believe that ridesharing services are a safe way to get around, while 31% believe they are not safe (Source: Morning Consult)"
+"Think step by step. First consider the advertising marketplace on Uber. How big is it? Second, consider the word of mouth marketing campaign carried out by Lyft. What challenges has it faced? Finally, compare and contrast the different approaches, considering the relative strengths and weaknesses of each approach.","Uber has over 170,000 advertising merchants. Lyft benefits from word of mouth in the existing Lyft rider community. It has faced significant reductions in ridership due to covid 19. Uber's diverse platform approach has including different merchants and delivery services made it more resliant to covid19 than Lyft, which suffered a drop in ridership that was not compensated by delivery.","The Uber advertising marketplace is a multi-billion dollar business. Lyft's word of mouth marketing campaign, on the other hand, is not a marketing campaign but rather the default experience for many of their users. This is a key differentiator for Lyft. Lyft's business model is designed to encourage users to share their positive experiences with friends and family, creating a self-sustaining, organic growth engine. This is in contrast to Uber's attempt to purchase the right to promote their rides in search results, which is not sustainable in the long term."
+How much money is Lyft required to spend on AWS per year in 2020?,"Under this agreement, Lyft committed to spend an aggregate of at least $300 million between January 2019 and June 2022 on AWS services, with a minimum amount of $80 million in each of the three years. In February 2022, Lyft amended the agreement and committed to spend an aggregate of at least $350 million between February 2022 and January 2026, with a minimum of $80 million in each of the four years. If we fail to meet the minimum purchase commitment during any year, we may be required to pay the difference. We pay AWS monthly, and we may pay more than the minimum purchase commitment to AWS based on usage.","I don't have access to real-time data or the ability to view Lyft's most up-to-date financial information. However, I can provide some context and a possible way to estimate the answer.
+
+In Lyft's 2020 Annual Report, the company does not break out direct costs for AWS. However, they do provide a breakdown of their operational expenses in their 10-K filing."
+How much cloud spend is Uber expected to have in 2021?,"As of December 31, 2021, we had $394 million in non-cancelable commitments, with varying expiration terms across several cloud providers through December 15, 2026.", Lyft's total dollar amount resulting from transactions by customers with disabilities is not material to Lyft's business.
+Compare and contrast the cloud compute strategies used by Uber and Lyft.,Lyft focuses on AWS while Uber uses a mix of different cloud providers.,"When it comes to cloud compute strategies, Uber and Lyft, two of the world's leading ridesharing companies, have adopted different approaches to manage their infrastructure and scale their businesses. Here's a comparison of their cloud compute strategies:
+
+**Uber's Cloud Compute Strategy:**
+
+1. **Hybrid Approach**: Uber uses a hybrid cloud strategy, leveraging a combination of on-premises, public, and third-party cloud services to build a flexible and scalable infrastructure.
+2. **AWS as a Key Partner**: Uber has a long-term agreement with Amazon Web Services (AWS) to host many of its applications and services. AWS provides Uber with a wide range of services, including compute, storage, database, and analytics.
+3. **Custom Solutions**: Uber also builds custom solutions using AWS services, such as a proprietary mapping platform that relies on AWS services for geospatial computing and mapping.
+4. **On-Premises Infrastructure**: Uber has its own data centers and network infrastructure to support its business, particularly for certain applications and workloads.
+
+**Lyft's Cloud Compute Strategy:**
+
+1. **Public Cloud-Led Strategy**: Lyft has adopted a public cloud-led strategy, primarily using Amazon Web Services (AWS) to host its applications and services.
+2. **AWS as the Primary Cloud Provider**: Lyft has a multi-year agreement with AWS to host many of its applications and services, including its consumer-facing platform, driver hubs, and operational support systems.
+3. **Custom Solutions**: Lyft also builds custom solutions using AWS services, such as a proprietary matching engine that relies on AWS services for scalability and high performance.
+4. **Limited On-Premises Infrastructure**: Lyft has a relatively small amount of on-premises infrastructure, primarily related to its legacy systems and certain regulatory requirements.
+
+**Key Differences:**
+
+1. **Cloud Strategy**: Uber's hybrid approach allows for more flexibility and options, while Lyft's public cloud-led strategy is more centralized.
+2. **Vendor Lock-in**: Uber's long-term agreement with AWS may provide more predictability and stability, while Lyft's reliance on AWS may create more risk around vendor lock-in.
+3. **Customization**: Both companies build custom solutions using AWS services, but Uber's proprietary mapping platform is a more significant example of customization.
+4. **On-Premises Infrastructure**: Uber has a more"
+Think step by step. It is 2021. First consider the cloud budget of Lyft. Then consider the cloud budget of Uber. Compare their magnitude against the relative size and market share of Uber and Lyft,"In 2021, Lyft has a minimum AWS spend of $80 million annually while. Uber has a total cloud commitment of 394 million across multiple clouds through 2026, which comes out to an average of $78.8 million annually. Given Uber's large market share, it's multi-cloud approach seems more capital efficient."," Lyft's cloud budget is not publicly disclosed. Uber's cloud budget is estimated to be around $1.5 billion per year, according to a report by Light Reading in 2020. Lyft's market share of the ridesharing market is around 28% and Uber's is around 70%. Lyft's revenue for 2020 was $10.9 billion and Uber's was $37.6 billion."
+What acquisitions has Uber completed in 2021 to handle grocery delivery in Chile?,"During 2021, Uber completed the acquisition of the remaining 45% ownership interest in Cornershop Cayman (“Cornershop”) in an all-stock transaction. The acquisition was accounted for as an equity transaction, as we previously controlled and consolidated Cornershop.","In 2021, Uber completed the acquisition of Cornerstore, a grocery delivery service in Curitiba, Brazil. In February 2021, Uber also launched a grocery delivery service in Bogotá, Colombia in partnership with MercadoLibre, a Latin American e-commerce platform."
+What acquisitions has Lyft completed by 2021?,"In November 2018, Lyft acquired Bikeshare Holdings LLC (“Motivate”), the largest bike sharing platform in the United States at the time and in February 2020, we acquired Flexdrive, LLC (“Flexdrive”), one of our longstanding Express Drive partners.","Here are some of the acquisitions completed by Lyft between 2021 and 2022:
+1. Flexdrive (February 2021) - A car-share marketplace that connects drivers with riders in cities where Lyft operates.
+2. Pink Slide (March 2021) - A consumer tech startup that provides in-app incentives to encourage people to get vaccinated.
+3. Motional (April 2021) - A autonomous driving technology company.
+4. Express Drive (June 2021) - A car-share program for first responders.
+5. Woven Planet (August 2021) - A subsidiary of Toyota that developed the autonomous driving system for the Toyota Mirai fuel cell vehicle. Lyft and Woven Planet entered into an agreement to deploy the Toyota Autonomous Drive (AAD) platform in Lyft vehicles.
+6. Aptiv (October 2021) - A mobility solutions company that provides vehicle manufacturers with solutions related to autonomous vehicles. Lyft and Aptiv entered into an agreement to deploy Aptiv's vehicle fleet technology in Lyft's Express Drive program for enterprise customers.
+7. Zimride (October 2021) - A business-to-business platform that provides shared rides for employees."
+Think step by step. Does Uber operate in south america? What are some relevant aquisitions that Uber has made in these markets?,"Yes, uber operates in south america. It recently acquired Cornershop, a delivery service in Chile.","Yes, Uber operates in many countries in South America. Here are some relevant acquisitions Uber has made in the region:
+
+1. **Uber's entry into Latin America**: In 2014, Uber acquired a 51% stake in UberCab, the main ridesharing company in Mexico, for approximately $85 million. This was Uber's first foray into Latin America.
+2. **Uber's acquisition of 49% of Cabify**: In 2018, Uber acquired a 49% stake in Cabify, a ridesharing platform operating in Spain, Latin America, and Southeast Asia. This acquisition expanded Uber's presence in Latin America and provided access to new markets.
+3. **Uber's acquisition of Flexdrive**: In 2020, Uber acquired Flexdrive, a fleet management platform that connects drivers with ridesharing services in Colombia. This acquisition enabled Uber to expand its fleet capabilities in Colombia and improve the quality of its rides in the country.
+4. **Uber's investments in local players**: Uber has also made investments in local ridesharing companies in various South American countries, such as 99 Taxis in Brazil, Taxicab in Argentina, and Easy Taxi in Chile. These investments have helped Uber expand its network and reach new users in each market.
+
+These acquisitions and investments have enabled Uber to establish a significant presence in many countries across South America, offering users convenient and reliable ridesharing services in cities such as São Paulo, Rio de Janeiro, Buenos Aires, and Lima, among others"
+What subscription programs does lyft offer?,The Lyft Pink subscription plan.,"Lyft offers several subscription programs to provide users with convenient and cost-effective ways to use the Lyft platform. Here are some of the subscription programs offered by Lyft:
+
+1. **Lyft Pass**: A flexible, month-to-month subscription that allows users to access Lyft rides at a discounted rate. The cost is $15 per week or $48 per month.
+2. **Lyft Premium**: A subscription service that offers access to a network of high-end vehicles, priority access to rides, and other perks. The cost is $20 per week or $80 per month.
+3. **Lyft Express Drive**: A subscription service for drivers who want to offer Lyft rides to their customers at a discounted rate. The cost is $10 per hour or $125 per month.
+4. **Lyft Business**: A subscription service for businesses that want to offer Lyft rides to their employees. The cost is customized based on the number of employees and the frequency of rides.
+5. **Lyft Rentals**: A car rental program that allows users to reserve a car for a period of time, usually for events or trips. The cost varies based on the vehicle and rental period.
+6. **Lyft Scholar**: A program that offers financial assistance to students who want to use Lyft. The program provides discounts on rides and access to other benefits.
+7. **Lyft Rentals for Events**: A program that allows users to reserve a car for a one-time event or trip. The cost varies based on the vehicle and rental period.
+
+These subscription programs help Lyft users and drivers save time and money, and provide a more convenient and affordable way to use the Lyft platform"
+What subscription programs does uber offer?,"During November 2021, we launched Uber One in the United States as our single cross-platform membership program that brings together the best of Uber. Uber One members have access to discounts, special pricing, priority service, and exclusive perks across our rides, delivery and grocery offerings. Our Uber Pass and Eats Pass membership programs continue to remain available in select cities as a subscription offering. Our membership programs are designed to make utilizing our suite of products a seamless and rewarding experience for our consumers. We exited 2021 with over 6 million members for our Uber One, Uber Pass, Eats Pass and Rides Pass membership programs. In 2020, we rolled out our “Super App” view on iOS and Android, which combines our multiple offerings into a single app and is designed to remove friction for our consumers.","Uber offers several subscription programs to incentivize repeat customers and provide convenient and cost-effective options for frequent riders. Here are some of the subscription programs offered by Uber:
+
+1. **Uber Express Pass**: Available in select cities, this is an add-on that allows riders to pay a flat fee for a set amount of time (e.g., 30 days) and get unlimited rides during that period.
+2. **Uber Pass**: Similar to Express Pass, but with a more flexible subscription model that allows riders to choose from various plans with different benefits and pricing.
+3. **Uber Light**: A budget-friendly option for riders who want to save money on rides. With Uber Light, riders pay a flat fee for a set amount of rides per month.
+4. **Uber Rentals**: Available in select cities, this program allows riders to reserve a car for a full day or multiple days in advance. The car is delivered to the rider's location and picked up when the rental period is over.
+5. **Uber Black**: A premium subscription service that offers high-end vehicles, priority access, and other perks. Available in select cities.
+6. **Uber Concierge**: A personalized service that offers riders access to a dedicated concierge who can help with everything from ride requests to event planning.
+7. **Uber Student**: A subscription program for students with a valid.edu email address. Riders get discounts on rides and other perks.
+8. **Uber Eats Pass**: A subscription service for food delivery. Riders can get unlimited orders from their favorite restaurants for a flat fee.
+9. **Uber Eats Premium**: An upgrade to the Eats Pass that offers faster delivery, no service fees, and other perks.
+10. **Uber Auto**: A subscription service for drivers who want to drive for Uber. It offers access to a fleet of vehicles, maintenance support, and other benefits.
+
+Please note that availability and details of these subscription programs may vary by location and are subject to change"
+"Think step by step. First consider the main Lyft subscription program. Second, consider the main Uber subscription program. What are the most important features available in the Uber subscription but not Lyft?","The lyft subscription is called Lyft Pink. It offers faster pickups and pays for itself. The uber subscription is called Uber one.  It offers discounts, special pricing, priority service, and exclusive perks across our rides, delivery and grocery offerings. Comparing the two, Uber One includes delivery services whereas Lyft Pink focused on ride sharing.","The main Lyft subscription program is Lyft Pass and the main Uber subscription program is Uber Light. The main features available in Uber Light but not in Lyft Pass are the following:
+
+1. Available in more cities worldwide
+2. Available in more cities in the United States
+3. Available in Canada
+4. Available in Europe
+5. Available in Middle East
+6. Available in Africa
+7. Available in Australia
+8. Available in New Zealand
+9. Available in Latin America (excluding Brazil)
+10. Available in Southeast Asia"

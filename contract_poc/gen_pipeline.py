@@ -1,3 +1,7 @@
+from tqdm.notebook import tqdm
+
+import pandas as pd
+
 from lamini.generation.generation_node import GenerationNode
 from lamini.generation.base_prompt_object import PromptObject
 from lamini.generation.generation_pipeline import GenerationPipeline
@@ -13,9 +17,10 @@ class GenPipeline(GenerationPipeline):
         return x
 
 class LlamaNode(GenerationNode):
-    def __init__(self):
-        super(AnswerGenerator, self).__init__(
-            model_name="meta-llama/Meta-Llama-3.1-8B-Instruct"
+    def __init__(self, model_name: str = "meta-llama/Meta-Llama-3.1-8B-Instruct"):
+        self.model_name = model_name
+        super(LlamaNode, self).__init__(
+            model_name=self.model_name
         )
 
     def preprocess(self, obj: PromptObject):
@@ -40,3 +45,28 @@ def simple_prompt_generator(
                 "expected_output": row[output_col],
             }
         )
+
+async def save_answers_to_csv(
+    answers, 
+    path = "model_responses_and_gold_responses.csv", 
+    print_outputs=True
+):
+    formated_answers = []
+    pbar = tqdm(desc="Saving answers", unit=" answers")
+    async for answer in answers:
+        answer = {
+            "Question": answer.data["question"],
+            "Gold Response": answer.data["expected_output"],
+            "Model Response": answer.response["answer"],
+        }
+        if print_outputs:
+            print("Question: " + answer["Question"])
+            print("Gold Response:" + answer["Gold Response"])
+            print("Model Response: " + answer["Model Response"])
+        formated_answers.append(answer)
+        pbar.update()
+
+    formated_answers = pd.DataFrame(formated_answers)
+    formated_answers.to_csv(path, index = False)
+    return formated_answers
+    
