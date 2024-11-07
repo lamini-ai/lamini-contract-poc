@@ -5,6 +5,19 @@ import asyncio
 import pandas as pd
 from lamini.generation.base_prompt_object import PromptObject
 
+async def load_format_pages(prompts, num_chunks = 4):
+    for prompt in prompts:
+        chunk_size = len(prompt) // num_chunks
+        if chunk_size < 1:
+            continue
+        for i in range(0, len(prompt), chunk_size):
+            yield PromptObject(
+                prompt="", 
+                data={
+                    "content":(prompt[i:i + chunk_size])
+                }
+            )
+            
 def read_pdf(file_path):
     with open(file_path, "rb") as f:
         reader = pypdf.PdfReader(f)
